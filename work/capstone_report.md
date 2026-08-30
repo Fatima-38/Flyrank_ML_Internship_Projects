@@ -108,4 +108,4 @@ python scripts/run_all.py
 
 ## 9. Acknowledgments & Data Credit
 
-Built on the **FlyRank ML Internship dataset**, provided by [FlyRank.ai](https://flyrank.ai). Special thanks to Track Leads Mirza Ašćerić (ML) and Hole (Data Engineering) for guidance throughout the internship.
+Built on the **FlyRank ML Internship dataset**, provided by [FlyRank.ai](https://flyrank.ai). Special Thanks to Track Leads Mirza Ašćerić (ML) and Hole (Data Engineering) for guidance throughout the internship.
