@@ -1,4 +1,4 @@
-# Submission
+# submission/
 
 One file lives here: **`paper_url.txt`**.
 
