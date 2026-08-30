@@ -2,7 +2,7 @@
 
 - **Author:** Fatima Javaid
 - **Lane:** Content Refresh / Traffic Decline (Applied Search Intelligence)
-- **Repo:** https://github.com/Fatima-38/Flyrank_ML_Internship_Projects
+- **Repo:** https://github.com/Fatima-38/Flyrank_ML_Internship
 - **Date:** August 2026
 
 ---
@@ -95,8 +95,8 @@ Identifying high-value search content suffering from organic traffic decay is cr
 To re-run the full evaluation pipeline from scratch:
 
 ```bash
-git clone https://github.com/Fatima-38/Flyrank_ML_Internship_Projects.git
-cd Flyrank_ML_Internship_Projects
+git clone https://github.com/Fatima-38/Flyrank_ML_Internship.git
+cd Flyrank_ML_Internship
 pip install -r requirements.txt
 python scripts/run_all.py
 ```
